@@ -1,4 +1,10 @@
-# the-automation-framework
+#### CI/CD
+automate the stages of app development
+CI - continuous integration - automation process
+
+    branch-change -review-merge to main of the pipeline
+
+
 
  ```mermaid
    stateDiagram
